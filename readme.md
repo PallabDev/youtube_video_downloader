@@ -17,8 +17,6 @@ A simple YouTube video downloader built with Python, CustomTkinter, and yt-dlp.
 
    ```sh
    pip install -r requirements.txt
-
-   ```sh
    python youtube.py
 
 
